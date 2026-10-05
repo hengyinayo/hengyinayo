@@ -1,17 +1,32 @@
-## Hi👋 I'm 이우흥
+# Hi, I’m 이우흥 👋
 
-<!--
-**hengyinayo/hengyinayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning · Databases · Efficient AI Systems
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hengyinayo&layout=compact)
+- Machine Learning for Systems
+- Database Query Optimization
+- Efficient AI Systems
+
+## Featured Research
+
+### [RELOAD: A Robust and Efficient Learned Query Optimizer for Database Systems](https://arxiv.org/abs/2604.14725)
+
+**arXiv preprint · 2026**
+
+Reinforcement learning for robust and efficient query optimization
+
+[arXiv:2604.14725](https://arxiv.org/abs/2604.14725)
+
+## Public Repository
+
+### [24th-de-highlighter](https://github.com/hengyinayo/24th-de-highlighter)
+
+**Public · Fork**  
+Forked from [YBIGTA/24th-de-highlighter](https://github.com/YBIGTA/24th-de-highlighter)
+
+Real-time YouTube highlight extraction
+
+---
+
+[github.com/hengyinayo](https://github.com/hengyinayo)
